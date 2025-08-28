@@ -57,7 +57,6 @@ demoqa_api/         # Testes de API
   ├── utils/
   ├── tests/
   ├── requirements.txt
-  └── uploads/
 demoqa_web/         # Testes de interface web
   ├── tests/
   ├── requirements.txt
