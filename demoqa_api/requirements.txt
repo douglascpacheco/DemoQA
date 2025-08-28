@@ -1,0 +1,3 @@
+requests # For making HTTP requests
+pytest # For running tests
+pytest-html # For generating HTML reports 
